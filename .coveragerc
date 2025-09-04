@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = bowling_game
+
+[report]
+show_missing = True
